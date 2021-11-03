@@ -1,3 +1,6 @@
+<h4 align="center"> 
+	🚧  Projeto em construção...  🚧
+</h4>
 ## LICENSE!
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ManoelPatrocinio/semana_spring_react/blob/main/LICENSE)
@@ -8,15 +11,21 @@ O projeto foi desenvolvido durante o evento Semana Spring React, se trata de um 
 
 [Confira o projeto].(https://dsvendas-mp.netlify.app/)
 
+## Ícones
+:package: nova funcionalidade
+:up: atualização
+:beetle: correção de bug
+:checkered_flag: release
+
 ## TECNOLOGIAS USADAS
 
-      *FRONT-END
+      FRONT-END
         *React JS
         *Apex Charts
 
-      *BACKEND
-      *TypeScript
-      *NodeJs
+      BACKEND
+        *TypeScript
+        *NodeJs
 
       *BANCO DE DADOS
         *Postgre
