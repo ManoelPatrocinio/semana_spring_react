@@ -1,18 +1,17 @@
 export const Footer = () => {
   return (
-    <footer className="footer mt-auto py-3 bg-dark">
+    <footer className="footer mt-auto py-3">
       <div className="container">
-        <p className="text-light">
-          App desenvolvido por{" "}
+        <p className="">
           <a
             href="https://github.com/ManoelPatrocinio"
             target="_blank"
             rel="noreferrer"
           >
-            Nelio Alves & Manoel Patrocinio
+            Manoel Patrocinio & Nelio Alves
           </a>
         </p>
-        <p className="text-light">
+        <p className="">
           <small>
             <strong>Semana Spring React</strong>
             <br />

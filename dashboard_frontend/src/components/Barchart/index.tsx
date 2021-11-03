@@ -7,8 +7,16 @@ export const Barchart = () => {
         horizontal: true,
       },
     },
+    legend: {
+      show: true,
+      labels: {
+        colors: ["#F44336"],
+        useSeriesColors: false,
+      },
+    },
   };
 
+  // colors: ["#F44336"],
   const mockData = {
     labels: {
       categories: ["Anakin", "Barry Allen", "Kal-El", "Logan", "Padmé"],
