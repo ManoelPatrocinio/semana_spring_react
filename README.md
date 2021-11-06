@@ -9,9 +9,10 @@
 
 O projeto foi desenvolvido durante o evento Semana Spring React, se trata de um dashboard para análise e monitoramento de vendas de uma empresa
 
-[Confira o projeto].(https://dsvendas-mp.netlify.app/)
+[Confira o projeto](https://dsvendas-mp.netlify.app/)
 
 ## Ícones
+
 :package: nova funcionalidade
 :up: atualização
 :beetle: correção de bug
